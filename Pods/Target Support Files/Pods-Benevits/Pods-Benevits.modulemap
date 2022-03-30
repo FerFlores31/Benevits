@@ -1,0 +1,6 @@
+framework module Pods_Benevits {
+  umbrella header "Pods-Benevits-umbrella.h"
+
+  export *
+  module * { export * }
+}

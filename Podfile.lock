@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManagerSwift (6.3.0)
+  - SideMenu (6.5.0)
+  - SkeletonView (1.29.2)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (= 6.3.0)
+  - SideMenu (~> 6.5)
+  - SkeletonView (~> 1.29)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SideMenu
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+
+PODFILE CHECKSUM: f3eb08887f1a3fb00ca5184cd9cebac455d346fc
+
+COCOAPODS: 1.11.2
